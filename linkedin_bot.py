@@ -18,7 +18,7 @@ from selenium.webdriver.chrome.options import Options
 # --- Configuration ---
 # Replace these with your actual credentials or use environment variables
 LINKEDIN_EMAIL = os.getenv("LINKEDIN_EMAIL", "vagh1747@gmail.com")
-LINKEDIN_PASSWORD = os.getenv("LINKEDIN_PASSWORD", "M@@t5234")
+LINKEDIN_PASSWORD = os.getenv("LINKEDIN_PASSWORD", "Meet5234")
 TARGET_POST_URL = "https://www.linkedin.com/feed/update/urn:li:activity:7404367839295496193/" # Replace with actual post URL
 
 # Connection Message Template
