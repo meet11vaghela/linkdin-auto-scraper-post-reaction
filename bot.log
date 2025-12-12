@@ -1,0 +1,848 @@
+2025-12-12 11:45:04,454 - INFO - ====== WebDriver manager ======
+2025-12-12 11:45:04,465 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-12 11:45:04,676 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2025-12-12 11:45:04,822 - INFO - Driver downloading response is 200
+2025-12-12 11:45:05,168 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-12 11:45:05,395 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-12 11:45:05,533 - INFO - Driver has been saved in cache [/home/mdpl/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2025-12-12 11:47:03,654 - INFO - ====== WebDriver manager ======
+2025-12-12 11:47:03,666 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-12 11:47:03,814 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2025-12-12 11:47:03,919 - INFO - Driver downloading response is 200
+2025-12-12 11:47:04,156 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-12 11:47:04,510 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-12 11:47:04,617 - INFO - Driver has been saved in cache [/home/mdpl/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2025-12-12 11:49:50,781 - INFO - ====== WebDriver manager ======
+2025-12-12 11:49:50,791 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-12 11:49:50,919 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2025-12-12 11:49:51,037 - INFO - Driver downloading response is 200
+2025-12-12 11:49:51,263 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-12 11:49:51,500 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-12 11:49:51,614 - INFO - Driver has been saved in cache [/home/mdpl/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2025-12-12 11:53:37,695 - INFO - ====== WebDriver manager ======
+2025-12-12 11:53:37,707 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-12 11:53:37,865 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2025-12-12 11:53:37,995 - INFO - Driver downloading response is 200
+2025-12-12 11:53:38,285 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-12 11:53:38,591 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-12 11:53:38,721 - INFO - Driver has been saved in cache [/home/mdpl/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2025-12-12 11:55:34,786 - INFO - ====== WebDriver manager ======
+2025-12-12 11:55:34,797 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-12 11:55:35,010 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2025-12-12 11:55:35,148 - INFO - Driver downloading response is 200
+2025-12-12 11:55:36,782 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-12 11:55:37,177 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-12 11:55:37,282 - INFO - Driver has been saved in cache [/home/mdpl/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2025-12-12 11:57:01,362 - INFO - ====== WebDriver manager ======
+2025-12-12 11:57:05,388 - INFO - Get LATEST chromedriver version for chromium
+2025-12-12 11:57:05,721 - INFO - Get LATEST chromedriver version for chromium
+2025-12-12 11:57:07,594 - INFO - There is no [linux64] chromedriver "142.0.7444.175" for browser chromium "142.0.7444" in cache
+2025-12-12 11:57:07,594 - INFO - Get LATEST chromedriver version for chromium
+2025-12-12 11:57:09,188 - INFO - WebDriver version 142.0.7444.175 selected
+2025-12-12 11:57:09,193 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/linux64/chromedriver-linux64.zip
+2025-12-12 11:57:09,193 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/linux64/chromedriver-linux64.zip
+2025-12-12 11:57:09,368 - INFO - Driver downloading response is 200
+2025-12-12 11:57:09,787 - INFO - Get LATEST chromedriver version for chromium
+2025-12-12 11:57:10,099 - INFO - Driver has been saved in cache [/home/mdpl/.wdm/drivers/chromedriver/linux64/142.0.7444.175]
+2025-12-12 11:57:32,939 - INFO - Navigating to LinkedIn login page...
+2025-12-12 11:57:35,561 - INFO - Sleeping for 2.63 seconds...
+2025-12-12 11:57:38,462 - INFO - Sleeping for 2.97 seconds...
+2025-12-12 11:57:41,722 - INFO - Sleeping for 1.00 seconds...
+2025-12-12 11:57:59,815 - ERROR - Login failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=142.0.7444.175)
+Stacktrace:
+#0 0x5f384b6364ca <unknown>
+#1 0x5f384b084e4b <unknown>
+#2 0x5f384b059580 <unknown>
+#3 0x5f384b105c18 <unknown>
+#4 0x5f384b123802 <unknown>
+#5 0x5f384b0c9c2a <unknown>
+#6 0x5f384b0ca931 <unknown>
+#7 0x5f384b5fccf9 <unknown>
+#8 0x5f384b5ffcdc <unknown>
+#9 0x5f384b5e5f79 <unknown>
+#10 0x5f384b6008b5 <unknown>
+#11 0x5f384b5cd9c3 <unknown>
+#12 0x5f384b623228 <unknown>
+#13 0x5f384b623403 <unknown>
+#14 0x5f384b635463 <unknown>
+#15 0x7626b209caa4 <unknown>
+#16 0x7626b2129c6c <unknown>
+
+2025-12-12 11:57:59,977 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=39469): Failed to establish a new connection: [Errno 111] Connection refused")': /session/2780f323b7d457a9bfef3f5163c8b7d2
+2025-12-12 11:57:59,978 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=39469): Failed to establish a new connection: [Errno 111] Connection refused")': /session/2780f323b7d457a9bfef3f5163c8b7d2
+2025-12-12 11:57:59,979 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=39469): Failed to establish a new connection: [Errno 111] Connection refused")': /session/2780f323b7d457a9bfef3f5163c8b7d2
+2025-12-12 12:03:52,323 - INFO - ====== WebDriver manager ======
+2025-12-12 12:03:54,913 - INFO - Get LATEST chromedriver version for chromium
+2025-12-12 12:03:55,117 - INFO - Get LATEST chromedriver version for chromium
+2025-12-12 12:03:55,302 - INFO - Driver [/home/mdpl/.wdm/drivers/chromedriver/linux64/142.0.7444.175/chromedriver-linux64/chromedriver] found in cache
+2025-12-12 12:03:57,095 - INFO - Navigating to LinkedIn login page...
+2025-12-12 12:03:58,942 - INFO - Sleeping for 4.97 seconds...
+2025-12-12 12:04:04,024 - INFO - Sleeping for 2.32 seconds...
+2025-12-12 12:04:06,397 - INFO - Sleeping for 2.59 seconds...
+2025-12-12 12:04:14,522 - INFO - Login successful.
+2025-12-12 12:04:14,523 - INFO - Sleeping for 43.29 seconds...
+2025-12-12 12:04:57,812 - INFO - Navigating to post: https://www.linkedin.com/feed/update/urn:li:activity:7404367839295496193/
+2025-12-12 12:04:57,822 - ERROR - Unexpected error: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+#0 0x5fd0568644ca <unknown>
+#1 0x5fd0562b2e4b <unknown>
+#2 0x5fd05629983e <unknown>
+#3 0x5fd0562c1b2a <unknown>
+#4 0x5fd056333e1f <unknown>
+#5 0x5fd056351802 <unknown>
+#6 0x5fd0562f7c2a <unknown>
+#7 0x5fd0562f8931 <unknown>
+#8 0x5fd05682acf9 <unknown>
+#9 0x5fd05682dcdc <unknown>
+#10 0x5fd056813f79 <unknown>
+#11 0x5fd05682e8b5 <unknown>
+#12 0x5fd0567fb9c3 <unknown>
+#13 0x5fd056851228 <unknown>
+#14 0x5fd056851403 <unknown>
+#15 0x5fd056863463 <unknown>
+#16 0x7b1b3129caa4 <unknown>
+#17 0x7b1b31329c6c <unknown>
+
+2025-12-12 12:05:20,562 - INFO - ====== WebDriver manager ======
+2025-12-12 12:05:23,156 - INFO - Get LATEST chromedriver version for chromium
+2025-12-12 12:05:23,376 - INFO - Get LATEST chromedriver version for chromium
+2025-12-12 12:05:23,526 - INFO - Driver [/home/mdpl/.wdm/drivers/chromedriver/linux64/142.0.7444.175/chromedriver-linux64/chromedriver] found in cache
+2025-12-12 12:05:25,110 - INFO - Navigating to LinkedIn login page...
+2025-12-12 12:05:26,894 - INFO - Sleeping for 4.47 seconds...
+2025-12-12 12:05:31,464 - INFO - Sleeping for 2.19 seconds...
+2025-12-12 12:05:33,706 - INFO - Sleeping for 1.24 seconds...
+2025-12-12 12:05:40,529 - INFO - Login successful.
+2025-12-12 12:05:40,529 - INFO - Sleeping for 16.30 seconds...
+2025-12-12 12:05:56,824 - INFO - Navigating to post: https://www.linkedin.com/feed/update/urn:li:activity:7404367839295496193/
+2025-12-12 12:06:00,958 - INFO - Sleeping for 18.13 seconds...
+2025-12-12 12:06:19,084 - INFO - Opening reactions modal...
+2025-12-12 12:06:39,096 - ERROR - Error getting reactions: Message: 
+Stacktrace:
+#0 0x5e2b4f08c4ca <unknown>
+#1 0x5e2b4eadae4b <unknown>
+#2 0x5e2b4eb2d814 <unknown>
+#3 0x5e2b4eb2da51 <unknown>
+#4 0x5e2b4eb7ca44 <unknown>
+#5 0x5e2b4eb79df7 <unknown>
+#6 0x5e2b4eb1fc2a <unknown>
+#7 0x5e2b4eb20931 <unknown>
+#8 0x5e2b4f052cf9 <unknown>
+#9 0x5e2b4f055cdc <unknown>
+#10 0x5e2b4f03bf79 <unknown>
+#11 0x5e2b4f0568b5 <unknown>
+#12 0x5e2b4f0239c3 <unknown>
+#13 0x5e2b4f079228 <unknown>
+#14 0x5e2b4f079403 <unknown>
+#15 0x5e2b4f08b463 <unknown>
+#16 0x7c327e09caa4 <unknown>
+#17 0x7c327e129c6c <unknown>
+
+2025-12-12 12:09:26,700 - INFO - ====== WebDriver manager ======
+2025-12-12 12:09:28,378 - INFO - Get LATEST chromedriver version for chromium
+2025-12-12 12:09:28,563 - INFO - Get LATEST chromedriver version for chromium
+2025-12-12 12:09:28,720 - INFO - Driver [/home/mdpl/.wdm/drivers/chromedriver/linux64/142.0.7444.175/chromedriver-linux64/chromedriver] found in cache
+2025-12-12 12:09:30,616 - INFO - Navigating to LinkedIn login page...
+2025-12-12 12:09:32,525 - INFO - Sleeping for 2.25 seconds...
+2025-12-12 12:09:34,878 - INFO - Sleeping for 1.95 seconds...
+2025-12-12 12:09:36,885 - INFO - Sleeping for 2.90 seconds...
+2025-12-12 12:09:45,715 - INFO - Login successful.
+2025-12-12 12:09:45,716 - INFO - Sleeping for 11.49 seconds...
+2025-12-12 12:09:57,206 - INFO - Navigating to post: https://www.linkedin.com/feed/update/urn:li:activity:7404367839295496193/
+2025-12-12 12:10:01,533 - INFO - Sleeping for 28.47 seconds...
+2025-12-12 12:10:30,003 - INFO - Opening reactions modal...
+2025-12-12 12:10:50,084 - ERROR - Error getting reactions: Message: 
+Stacktrace:
+#0 0x5b72e8ade4ca <unknown>
+#1 0x5b72e852ce4b <unknown>
+#2 0x5b72e857f814 <unknown>
+#3 0x5b72e857fa51 <unknown>
+#4 0x5b72e85cea44 <unknown>
+#5 0x5b72e85cbdf7 <unknown>
+#6 0x5b72e8571c2a <unknown>
+#7 0x5b72e8572931 <unknown>
+#8 0x5b72e8aa4cf9 <unknown>
+#9 0x5b72e8aa7cdc <unknown>
+#10 0x5b72e8a8df79 <unknown>
+#11 0x5b72e8aa88b5 <unknown>
+#12 0x5b72e8a759c3 <unknown>
+#13 0x5b72e8acb228 <unknown>
+#14 0x5b72e8acb403 <unknown>
+#15 0x5b72e8add463 <unknown>
+#16 0x7f45c369caa4 <unknown>
+#17 0x7f45c3729c6c <unknown>
+
+2025-12-12 12:12:58,346 - INFO - ====== WebDriver manager ======
+2025-12-12 12:13:00,397 - INFO - Get LATEST chromedriver version for chromium
+2025-12-12 12:13:00,605 - INFO - Get LATEST chromedriver version for chromium
+2025-12-12 12:13:00,766 - INFO - Driver [/home/mdpl/.wdm/drivers/chromedriver/linux64/142.0.7444.175/chromedriver-linux64/chromedriver] found in cache
+2025-12-12 12:13:02,757 - INFO - Navigating to LinkedIn login page...
+2025-12-12 12:13:04,670 - INFO - Sleeping for 2.94 seconds...
+2025-12-12 12:13:07,759 - INFO - Sleeping for 1.52 seconds...
+2025-12-12 12:13:09,331 - INFO - Sleeping for 2.14 seconds...
+2025-12-12 12:13:17,086 - INFO - Login successful.
+2025-12-12 12:13:17,086 - INFO - Sleeping for 11.29 seconds...
+2025-12-12 12:13:28,374 - INFO - Navigating to post: https://www.linkedin.com/feed/update/urn:li:activity:7404367839295496193/
+2025-12-12 12:13:31,572 - INFO - Sleeping for 7.93 seconds...
+2025-12-12 12:13:39,498 - INFO - Opening reactions modal...
+2025-12-12 12:13:44,703 - INFO - Found reaction button using: //button[contains(@class, 'social-details-social-counts__count-value')]
+2025-12-12 12:13:44,812 - INFO - Sleeping for 5.55 seconds...
+2025-12-12 12:13:50,389 - INFO - Sleeping for 3.19 seconds...
+2025-12-12 12:13:53,585 - INFO - Sleeping for 3.58 seconds...
+2025-12-12 12:13:57,168 - INFO - Sleeping for 2.65 seconds...
+2025-12-12 12:13:59,849 - WARNING - Failed to parse a profile item: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[contains(@class, 'artdeco-entity-lockup__title')]//span[@aria-hidden='true']"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x5d13ff5854ca <unknown>
+#1 0x5d13fefd3e4b <unknown>
+#2 0x5d13ff026814 <unknown>
+#3 0x5d13ff026a51 <unknown>
+#4 0x5d13ff01a5f6 <unknown>
+#5 0x5d13ff01a4e7 <unknown>
+#6 0x5d13ff072df7 <unknown>
+#7 0x5d13ff018c2a <unknown>
+#8 0x5d13ff019931 <unknown>
+#9 0x5d13ff54bcf9 <unknown>
+#10 0x5d13ff54ecdc <unknown>
+#11 0x5d13ff534f79 <unknown>
+#12 0x5d13ff54f8b5 <unknown>
+#13 0x5d13ff51c9c3 <unknown>
+#14 0x5d13ff572228 <unknown>
+#15 0x5d13ff572403 <unknown>
+#16 0x5d13ff584463 <unknown>
+#17 0x7e464be9caa4 <unknown>
+#18 0x7e464bf29c6c <unknown>
+
+2025-12-12 12:13:59,862 - WARNING - Failed to parse a profile item: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[contains(@class, 'artdeco-entity-lockup__title')]//span[@aria-hidden='true']"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x5d13ff5854ca <unknown>
+#1 0x5d13fefd3e4b <unknown>
+#2 0x5d13ff026814 <unknown>
+#3 0x5d13ff026a51 <unknown>
+#4 0x5d13ff01a5f6 <unknown>
+#5 0x5d13ff01a4e7 <unknown>
+#6 0x5d13ff072df7 <unknown>
+#7 0x5d13ff018c2a <unknown>
+#8 0x5d13ff019931 <unknown>
+#9 0x5d13ff54bcf9 <unknown>
+#10 0x5d13ff54ecdc <unknown>
+#11 0x5d13ff534f79 <unknown>
+#12 0x5d13ff54f8b5 <unknown>
+#13 0x5d13ff51c9c3 <unknown>
+#14 0x5d13ff572228 <unknown>
+#15 0x5d13ff572403 <unknown>
+#16 0x5d13ff584463 <unknown>
+#17 0x7e464be9caa4 <unknown>
+#18 0x7e464bf29c6c <unknown>
+
+2025-12-12 12:13:59,874 - WARNING - Failed to parse a profile item: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[contains(@class, 'artdeco-entity-lockup__title')]//span[@aria-hidden='true']"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x5d13ff5854ca <unknown>
+#1 0x5d13fefd3e4b <unknown>
+#2 0x5d13ff026814 <unknown>
+#3 0x5d13ff026a51 <unknown>
+#4 0x5d13ff01a5f6 <unknown>
+#5 0x5d13ff01a4e7 <unknown>
+#6 0x5d13ff072df7 <unknown>
+#7 0x5d13ff018c2a <unknown>
+#8 0x5d13ff019931 <unknown>
+#9 0x5d13ff54bcf9 <unknown>
+#10 0x5d13ff54ecdc <unknown>
+#11 0x5d13ff534f79 <unknown>
+#12 0x5d13ff54f8b5 <unknown>
+#13 0x5d13ff51c9c3 <unknown>
+#14 0x5d13ff572228 <unknown>
+#15 0x5d13ff572403 <unknown>
+#16 0x5d13ff584463 <unknown>
+#17 0x7e464be9caa4 <unknown>
+#18 0x7e464bf29c6c <unknown>
+
+2025-12-12 12:13:59,888 - WARNING - Failed to parse a profile item: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[contains(@class, 'artdeco-entity-lockup__title')]//span[@aria-hidden='true']"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x5d13ff5854ca <unknown>
+#1 0x5d13fefd3e4b <unknown>
+#2 0x5d13ff026814 <unknown>
+#3 0x5d13ff026a51 <unknown>
+#4 0x5d13ff01a5f6 <unknown>
+#5 0x5d13ff01a4e7 <unknown>
+#6 0x5d13ff072df7 <unknown>
+#7 0x5d13ff018c2a <unknown>
+#8 0x5d13ff019931 <unknown>
+#9 0x5d13ff54bcf9 <unknown>
+#10 0x5d13ff54ecdc <unknown>
+#11 0x5d13ff534f79 <unknown>
+#12 0x5d13ff54f8b5 <unknown>
+#13 0x5d13ff51c9c3 <unknown>
+#14 0x5d13ff572228 <unknown>
+#15 0x5d13ff572403 <unknown>
+#16 0x5d13ff584463 <unknown>
+#17 0x7e464be9caa4 <unknown>
+#18 0x7e464bf29c6c <unknown>
+
+2025-12-12 12:13:59,901 - WARNING - Failed to parse a profile item: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[contains(@class, 'artdeco-entity-lockup__title')]//span[@aria-hidden='true']"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x5d13ff5854ca <unknown>
+#1 0x5d13fefd3e4b <unknown>
+#2 0x5d13ff026814 <unknown>
+#3 0x5d13ff026a51 <unknown>
+#4 0x5d13ff01a5f6 <unknown>
+#5 0x5d13ff01a4e7 <unknown>
+#6 0x5d13ff072df7 <unknown>
+#7 0x5d13ff018c2a <unknown>
+#8 0x5d13ff019931 <unknown>
+#9 0x5d13ff54bcf9 <unknown>
+#10 0x5d13ff54ecdc <unknown>
+#11 0x5d13ff534f79 <unknown>
+#12 0x5d13ff54f8b5 <unknown>
+#13 0x5d13ff51c9c3 <unknown>
+#14 0x5d13ff572228 <unknown>
+#15 0x5d13ff572403 <unknown>
+#16 0x5d13ff584463 <unknown>
+#17 0x7e464be9caa4 <unknown>
+#18 0x7e464bf29c6c <unknown>
+
+2025-12-12 12:13:59,915 - WARNING - Failed to parse a profile item: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[contains(@class, 'artdeco-entity-lockup__title')]//span[@aria-hidden='true']"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x5d13ff5854ca <unknown>
+#1 0x5d13fefd3e4b <unknown>
+#2 0x5d13ff026814 <unknown>
+#3 0x5d13ff026a51 <unknown>
+#4 0x5d13ff01a5f6 <unknown>
+#5 0x5d13ff01a4e7 <unknown>
+#6 0x5d13ff072df7 <unknown>
+#7 0x5d13ff018c2a <unknown>
+#8 0x5d13ff019931 <unknown>
+#9 0x5d13ff54bcf9 <unknown>
+#10 0x5d13ff54ecdc <unknown>
+#11 0x5d13ff534f79 <unknown>
+#12 0x5d13ff54f8b5 <unknown>
+#13 0x5d13ff51c9c3 <unknown>
+#14 0x5d13ff572228 <unknown>
+#15 0x5d13ff572403 <unknown>
+#16 0x5d13ff584463 <unknown>
+#17 0x7e464be9caa4 <unknown>
+#18 0x7e464bf29c6c <unknown>
+
+2025-12-12 12:13:59,930 - WARNING - Failed to parse a profile item: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[contains(@class, 'artdeco-entity-lockup__title')]//span[@aria-hidden='true']"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x5d13ff5854ca <unknown>
+#1 0x5d13fefd3e4b <unknown>
+#2 0x5d13ff026814 <unknown>
+#3 0x5d13ff026a51 <unknown>
+#4 0x5d13ff01a5f6 <unknown>
+#5 0x5d13ff01a4e7 <unknown>
+#6 0x5d13ff072df7 <unknown>
+#7 0x5d13ff018c2a <unknown>
+#8 0x5d13ff019931 <unknown>
+#9 0x5d13ff54bcf9 <unknown>
+#10 0x5d13ff54ecdc <unknown>
+#11 0x5d13ff534f79 <unknown>
+#12 0x5d13ff54f8b5 <unknown>
+#13 0x5d13ff51c9c3 <unknown>
+#14 0x5d13ff572228 <unknown>
+#15 0x5d13ff572403 <unknown>
+#16 0x5d13ff584463 <unknown>
+#17 0x7e464be9caa4 <unknown>
+#18 0x7e464bf29c6c <unknown>
+
+2025-12-12 12:13:59,944 - WARNING - Failed to parse a profile item: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[contains(@class, 'artdeco-entity-lockup__title')]//span[@aria-hidden='true']"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x5d13ff5854ca <unknown>
+#1 0x5d13fefd3e4b <unknown>
+#2 0x5d13ff026814 <unknown>
+#3 0x5d13ff026a51 <unknown>
+#4 0x5d13ff01a5f6 <unknown>
+#5 0x5d13ff01a4e7 <unknown>
+#6 0x5d13ff072df7 <unknown>
+#7 0x5d13ff018c2a <unknown>
+#8 0x5d13ff019931 <unknown>
+#9 0x5d13ff54bcf9 <unknown>
+#10 0x5d13ff54ecdc <unknown>
+#11 0x5d13ff534f79 <unknown>
+#12 0x5d13ff54f8b5 <unknown>
+#13 0x5d13ff51c9c3 <unknown>
+#14 0x5d13ff572228 <unknown>
+#15 0x5d13ff572403 <unknown>
+#16 0x5d13ff584463 <unknown>
+#17 0x7e464be9caa4 <unknown>
+#18 0x7e464bf29c6c <unknown>
+
+2025-12-12 12:13:59,958 - WARNING - Failed to parse a profile item: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[contains(@class, 'artdeco-entity-lockup__title')]//span[@aria-hidden='true']"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x5d13ff5854ca <unknown>
+#1 0x5d13fefd3e4b <unknown>
+#2 0x5d13ff026814 <unknown>
+#3 0x5d13ff026a51 <unknown>
+#4 0x5d13ff01a5f6 <unknown>
+#5 0x5d13ff01a4e7 <unknown>
+#6 0x5d13ff072df7 <unknown>
+#7 0x5d13ff018c2a <unknown>
+#8 0x5d13ff019931 <unknown>
+#9 0x5d13ff54bcf9 <unknown>
+#10 0x5d13ff54ecdc <unknown>
+#11 0x5d13ff534f79 <unknown>
+#12 0x5d13ff54f8b5 <unknown>
+#13 0x5d13ff51c9c3 <unknown>
+#14 0x5d13ff572228 <unknown>
+#15 0x5d13ff572403 <unknown>
+#16 0x5d13ff584463 <unknown>
+#17 0x7e464be9caa4 <unknown>
+#18 0x7e464bf29c6c <unknown>
+
+2025-12-12 12:13:59,973 - WARNING - Failed to parse a profile item: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[contains(@class, 'artdeco-entity-lockup__title')]//span[@aria-hidden='true']"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x5d13ff5854ca <unknown>
+#1 0x5d13fefd3e4b <unknown>
+#2 0x5d13ff026814 <unknown>
+#3 0x5d13ff026a51 <unknown>
+#4 0x5d13ff01a5f6 <unknown>
+#5 0x5d13ff01a4e7 <unknown>
+#6 0x5d13ff072df7 <unknown>
+#7 0x5d13ff018c2a <unknown>
+#8 0x5d13ff019931 <unknown>
+#9 0x5d13ff54bcf9 <unknown>
+#10 0x5d13ff54ecdc <unknown>
+#11 0x5d13ff534f79 <unknown>
+#12 0x5d13ff54f8b5 <unknown>
+#13 0x5d13ff51c9c3 <unknown>
+#14 0x5d13ff572228 <unknown>
+#15 0x5d13ff572403 <unknown>
+#16 0x5d13ff584463 <unknown>
+#17 0x7e464be9caa4 <unknown>
+#18 0x7e464bf29c6c <unknown>
+
+2025-12-12 12:13:59,986 - WARNING - Failed to parse a profile item: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[contains(@class, 'artdeco-entity-lockup__title')]//span[@aria-hidden='true']"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x5d13ff5854ca <unknown>
+#1 0x5d13fefd3e4b <unknown>
+#2 0x5d13ff026814 <unknown>
+#3 0x5d13ff026a51 <unknown>
+#4 0x5d13ff01a5f6 <unknown>
+#5 0x5d13ff01a4e7 <unknown>
+#6 0x5d13ff072df7 <unknown>
+#7 0x5d13ff018c2a <unknown>
+#8 0x5d13ff019931 <unknown>
+#9 0x5d13ff54bcf9 <unknown>
+#10 0x5d13ff54ecdc <unknown>
+#11 0x5d13ff534f79 <unknown>
+#12 0x5d13ff54f8b5 <unknown>
+#13 0x5d13ff51c9c3 <unknown>
+#14 0x5d13ff572228 <unknown>
+#15 0x5d13ff572403 <unknown>
+#16 0x5d13ff584463 <unknown>
+#17 0x7e464be9caa4 <unknown>
+#18 0x7e464bf29c6c <unknown>
+
+2025-12-12 12:13:59,999 - WARNING - Failed to parse a profile item: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[contains(@class, 'artdeco-entity-lockup__title')]//span[@aria-hidden='true']"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x5d13ff5854ca <unknown>
+#1 0x5d13fefd3e4b <unknown>
+#2 0x5d13ff026814 <unknown>
+#3 0x5d13ff026a51 <unknown>
+#4 0x5d13ff01a5f6 <unknown>
+#5 0x5d13ff01a4e7 <unknown>
+#6 0x5d13ff072df7 <unknown>
+#7 0x5d13ff018c2a <unknown>
+#8 0x5d13ff019931 <unknown>
+#9 0x5d13ff54bcf9 <unknown>
+#10 0x5d13ff54ecdc <unknown>
+#11 0x5d13ff534f79 <unknown>
+#12 0x5d13ff54f8b5 <unknown>
+#13 0x5d13ff51c9c3 <unknown>
+#14 0x5d13ff572228 <unknown>
+#15 0x5d13ff572403 <unknown>
+#16 0x5d13ff584463 <unknown>
+#17 0x7e464be9caa4 <unknown>
+#18 0x7e464bf29c6c <unknown>
+
+2025-12-12 12:14:00,013 - WARNING - Failed to parse a profile item: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[contains(@class, 'artdeco-entity-lockup__title')]//span[@aria-hidden='true']"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x5d13ff5854ca <unknown>
+#1 0x5d13fefd3e4b <unknown>
+#2 0x5d13ff026814 <unknown>
+#3 0x5d13ff026a51 <unknown>
+#4 0x5d13ff01a5f6 <unknown>
+#5 0x5d13ff01a4e7 <unknown>
+#6 0x5d13ff072df7 <unknown>
+#7 0x5d13ff018c2a <unknown>
+#8 0x5d13ff019931 <unknown>
+#9 0x5d13ff54bcf9 <unknown>
+#10 0x5d13ff54ecdc <unknown>
+#11 0x5d13ff534f79 <unknown>
+#12 0x5d13ff54f8b5 <unknown>
+#13 0x5d13ff51c9c3 <unknown>
+#14 0x5d13ff572228 <unknown>
+#15 0x5d13ff572403 <unknown>
+#16 0x5d13ff584463 <unknown>
+#17 0x7e464be9caa4 <unknown>
+#18 0x7e464bf29c6c <unknown>
+
+2025-12-12 12:14:00,027 - WARNING - Failed to parse a profile item: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[contains(@class, 'artdeco-entity-lockup__title')]//span[@aria-hidden='true']"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x5d13ff5854ca <unknown>
+#1 0x5d13fefd3e4b <unknown>
+#2 0x5d13ff026814 <unknown>
+#3 0x5d13ff026a51 <unknown>
+#4 0x5d13ff01a5f6 <unknown>
+#5 0x5d13ff01a4e7 <unknown>
+#6 0x5d13ff072df7 <unknown>
+#7 0x5d13ff018c2a <unknown>
+#8 0x5d13ff019931 <unknown>
+#9 0x5d13ff54bcf9 <unknown>
+#10 0x5d13ff54ecdc <unknown>
+#11 0x5d13ff534f79 <unknown>
+#12 0x5d13ff54f8b5 <unknown>
+#13 0x5d13ff51c9c3 <unknown>
+#14 0x5d13ff572228 <unknown>
+#15 0x5d13ff572403 <unknown>
+#16 0x5d13ff584463 <unknown>
+#17 0x7e464be9caa4 <unknown>
+#18 0x7e464bf29c6c <unknown>
+
+2025-12-12 12:14:00,044 - WARNING - Failed to parse a profile item: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[contains(@class, 'artdeco-entity-lockup__title')]//span[@aria-hidden='true']"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x5d13ff5854ca <unknown>
+#1 0x5d13fefd3e4b <unknown>
+#2 0x5d13ff026814 <unknown>
+#3 0x5d13ff026a51 <unknown>
+#4 0x5d13ff01a5f6 <unknown>
+#5 0x5d13ff01a4e7 <unknown>
+#6 0x5d13ff072df7 <unknown>
+#7 0x5d13ff018c2a <unknown>
+#8 0x5d13ff019931 <unknown>
+#9 0x5d13ff54bcf9 <unknown>
+#10 0x5d13ff54ecdc <unknown>
+#11 0x5d13ff534f79 <unknown>
+#12 0x5d13ff54f8b5 <unknown>
+#13 0x5d13ff51c9c3 <unknown>
+#14 0x5d13ff572228 <unknown>
+#15 0x5d13ff572403 <unknown>
+#16 0x5d13ff584463 <unknown>
+#17 0x7e464be9caa4 <unknown>
+#18 0x7e464bf29c6c <unknown>
+
+2025-12-12 12:14:00,059 - WARNING - Failed to parse a profile item: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[contains(@class, 'artdeco-entity-lockup__title')]//span[@aria-hidden='true']"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x5d13ff5854ca <unknown>
+#1 0x5d13fefd3e4b <unknown>
+#2 0x5d13ff026814 <unknown>
+#3 0x5d13ff026a51 <unknown>
+#4 0x5d13ff01a5f6 <unknown>
+#5 0x5d13ff01a4e7 <unknown>
+#6 0x5d13ff072df7 <unknown>
+#7 0x5d13ff018c2a <unknown>
+#8 0x5d13ff019931 <unknown>
+#9 0x5d13ff54bcf9 <unknown>
+#10 0x5d13ff54ecdc <unknown>
+#11 0x5d13ff534f79 <unknown>
+#12 0x5d13ff54f8b5 <unknown>
+#13 0x5d13ff51c9c3 <unknown>
+#14 0x5d13ff572228 <unknown>
+#15 0x5d13ff572403 <unknown>
+#16 0x5d13ff584463 <unknown>
+#17 0x7e464be9caa4 <unknown>
+#18 0x7e464bf29c6c <unknown>
+
+2025-12-12 12:14:00,073 - WARNING - Failed to parse a profile item: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[contains(@class, 'artdeco-entity-lockup__title')]//span[@aria-hidden='true']"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x5d13ff5854ca <unknown>
+#1 0x5d13fefd3e4b <unknown>
+#2 0x5d13ff026814 <unknown>
+#3 0x5d13ff026a51 <unknown>
+#4 0x5d13ff01a5f6 <unknown>
+#5 0x5d13ff01a4e7 <unknown>
+#6 0x5d13ff072df7 <unknown>
+#7 0x5d13ff018c2a <unknown>
+#8 0x5d13ff019931 <unknown>
+#9 0x5d13ff54bcf9 <unknown>
+#10 0x5d13ff54ecdc <unknown>
+#11 0x5d13ff534f79 <unknown>
+#12 0x5d13ff54f8b5 <unknown>
+#13 0x5d13ff51c9c3 <unknown>
+#14 0x5d13ff572228 <unknown>
+#15 0x5d13ff572403 <unknown>
+#16 0x5d13ff584463 <unknown>
+#17 0x7e464be9caa4 <unknown>
+#18 0x7e464bf29c6c <unknown>
+
+2025-12-12 12:14:00,087 - WARNING - Failed to parse a profile item: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[contains(@class, 'artdeco-entity-lockup__title')]//span[@aria-hidden='true']"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x5d13ff5854ca <unknown>
+#1 0x5d13fefd3e4b <unknown>
+#2 0x5d13ff026814 <unknown>
+#3 0x5d13ff026a51 <unknown>
+#4 0x5d13ff01a5f6 <unknown>
+#5 0x5d13ff01a4e7 <unknown>
+#6 0x5d13ff072df7 <unknown>
+#7 0x5d13ff018c2a <unknown>
+#8 0x5d13ff019931 <unknown>
+#9 0x5d13ff54bcf9 <unknown>
+#10 0x5d13ff54ecdc <unknown>
+#11 0x5d13ff534f79 <unknown>
+#12 0x5d13ff54f8b5 <unknown>
+#13 0x5d13ff51c9c3 <unknown>
+#14 0x5d13ff572228 <unknown>
+#15 0x5d13ff572403 <unknown>
+#16 0x5d13ff584463 <unknown>
+#17 0x7e464be9caa4 <unknown>
+#18 0x7e464bf29c6c <unknown>
+
+2025-12-12 12:14:00,100 - WARNING - Failed to parse a profile item: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[contains(@class, 'artdeco-entity-lockup__title')]//span[@aria-hidden='true']"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x5d13ff5854ca <unknown>
+#1 0x5d13fefd3e4b <unknown>
+#2 0x5d13ff026814 <unknown>
+#3 0x5d13ff026a51 <unknown>
+#4 0x5d13ff01a5f6 <unknown>
+#5 0x5d13ff01a4e7 <unknown>
+#6 0x5d13ff072df7 <unknown>
+#7 0x5d13ff018c2a <unknown>
+#8 0x5d13ff019931 <unknown>
+#9 0x5d13ff54bcf9 <unknown>
+#10 0x5d13ff54ecdc <unknown>
+#11 0x5d13ff534f79 <unknown>
+#12 0x5d13ff54f8b5 <unknown>
+#13 0x5d13ff51c9c3 <unknown>
+#14 0x5d13ff572228 <unknown>
+#15 0x5d13ff572403 <unknown>
+#16 0x5d13ff584463 <unknown>
+#17 0x7e464be9caa4 <unknown>
+#18 0x7e464bf29c6c <unknown>
+
+2025-12-12 12:14:00,115 - WARNING - Failed to parse a profile item: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[contains(@class, 'artdeco-entity-lockup__title')]//span[@aria-hidden='true']"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x5d13ff5854ca <unknown>
+#1 0x5d13fefd3e4b <unknown>
+#2 0x5d13ff026814 <unknown>
+#3 0x5d13ff026a51 <unknown>
+#4 0x5d13ff01a5f6 <unknown>
+#5 0x5d13ff01a4e7 <unknown>
+#6 0x5d13ff072df7 <unknown>
+#7 0x5d13ff018c2a <unknown>
+#8 0x5d13ff019931 <unknown>
+#9 0x5d13ff54bcf9 <unknown>
+#10 0x5d13ff54ecdc <unknown>
+#11 0x5d13ff534f79 <unknown>
+#12 0x5d13ff54f8b5 <unknown>
+#13 0x5d13ff51c9c3 <unknown>
+#14 0x5d13ff572228 <unknown>
+#15 0x5d13ff572403 <unknown>
+#16 0x5d13ff584463 <unknown>
+#17 0x7e464be9caa4 <unknown>
+#18 0x7e464bf29c6c <unknown>
+
+2025-12-12 12:14:00,131 - WARNING - Failed to parse a profile item: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[contains(@class, 'artdeco-entity-lockup__title')]//span[@aria-hidden='true']"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x5d13ff5854ca <unknown>
+#1 0x5d13fefd3e4b <unknown>
+#2 0x5d13ff026814 <unknown>
+#3 0x5d13ff026a51 <unknown>
+#4 0x5d13ff01a5f6 <unknown>
+#5 0x5d13ff01a4e7 <unknown>
+#6 0x5d13ff072df7 <unknown>
+#7 0x5d13ff018c2a <unknown>
+#8 0x5d13ff019931 <unknown>
+#9 0x5d13ff54bcf9 <unknown>
+#10 0x5d13ff54ecdc <unknown>
+#11 0x5d13ff534f79 <unknown>
+#12 0x5d13ff54f8b5 <unknown>
+#13 0x5d13ff51c9c3 <unknown>
+#14 0x5d13ff572228 <unknown>
+#15 0x5d13ff572403 <unknown>
+#16 0x5d13ff584463 <unknown>
+#17 0x7e464be9caa4 <unknown>
+#18 0x7e464bf29c6c <unknown>
+
+2025-12-12 12:14:00,144 - WARNING - Failed to parse a profile item: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[contains(@class, 'artdeco-entity-lockup__title')]//span[@aria-hidden='true']"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x5d13ff5854ca <unknown>
+#1 0x5d13fefd3e4b <unknown>
+#2 0x5d13ff026814 <unknown>
+#3 0x5d13ff026a51 <unknown>
+#4 0x5d13ff01a5f6 <unknown>
+#5 0x5d13ff01a4e7 <unknown>
+#6 0x5d13ff072df7 <unknown>
+#7 0x5d13ff018c2a <unknown>
+#8 0x5d13ff019931 <unknown>
+#9 0x5d13ff54bcf9 <unknown>
+#10 0x5d13ff54ecdc <unknown>
+#11 0x5d13ff534f79 <unknown>
+#12 0x5d13ff54f8b5 <unknown>
+#13 0x5d13ff51c9c3 <unknown>
+#14 0x5d13ff572228 <unknown>
+#15 0x5d13ff572403 <unknown>
+#16 0x5d13ff584463 <unknown>
+#17 0x7e464be9caa4 <unknown>
+#18 0x7e464bf29c6c <unknown>
+
+2025-12-12 12:14:00,158 - WARNING - Failed to parse a profile item: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[contains(@class, 'artdeco-entity-lockup__title')]//span[@aria-hidden='true']"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x5d13ff5854ca <unknown>
+#1 0x5d13fefd3e4b <unknown>
+#2 0x5d13ff026814 <unknown>
+#3 0x5d13ff026a51 <unknown>
+#4 0x5d13ff01a5f6 <unknown>
+#5 0x5d13ff01a4e7 <unknown>
+#6 0x5d13ff072df7 <unknown>
+#7 0x5d13ff018c2a <unknown>
+#8 0x5d13ff019931 <unknown>
+#9 0x5d13ff54bcf9 <unknown>
+#10 0x5d13ff54ecdc <unknown>
+#11 0x5d13ff534f79 <unknown>
+#12 0x5d13ff54f8b5 <unknown>
+#13 0x5d13ff51c9c3 <unknown>
+#14 0x5d13ff572228 <unknown>
+#15 0x5d13ff572403 <unknown>
+#16 0x5d13ff584463 <unknown>
+#17 0x7e464be9caa4 <unknown>
+#18 0x7e464bf29c6c <unknown>
+
+2025-12-12 12:14:00,158 - INFO - Found 0 profiles.
+2025-12-12 12:17:38,753 - INFO - ====== WebDriver manager ======
+2025-12-12 12:17:40,367 - INFO - Get LATEST chromedriver version for chromium
+2025-12-12 12:17:40,540 - INFO - Get LATEST chromedriver version for chromium
+2025-12-12 12:17:40,699 - INFO - Driver [/home/mdpl/.wdm/drivers/chromedriver/linux64/142.0.7444.175/chromedriver-linux64/chromedriver] found in cache
+2025-12-12 12:17:42,589 - INFO - Navigating to LinkedIn login page...
+2025-12-12 12:17:44,834 - INFO - Sleeping for 3.84 seconds...
+2025-12-12 12:17:48,781 - INFO - Sleeping for 1.96 seconds...
+2025-12-12 12:17:50,795 - INFO - Sleeping for 2.26 seconds...
+2025-12-12 12:17:56,947 - INFO - Login successful.
+2025-12-12 12:17:56,947 - INFO - Sleeping for 7.23 seconds...
+2025-12-12 12:18:04,176 - INFO - Navigating to post: https://www.linkedin.com/feed/update/urn:li:activity:7404367839295496193/
+2025-12-12 12:18:07,052 - INFO - Sleeping for 14.63 seconds...
+2025-12-12 12:18:21,684 - INFO - Opening reactions modal...
+2025-12-12 12:18:26,859 - INFO - Found reaction button using: //button[contains(@class, 'social-details-social-counts__count-value')]
+2025-12-12 12:18:26,958 - INFO - Sleeping for 5.73 seconds...
+2025-12-12 12:18:32,700 - INFO - Sleeping for 2.75 seconds...
+2025-12-12 12:18:36,758 - INFO - Sleeping for 3.93 seconds...
+2025-12-12 12:18:40,699 - INFO - Sleeping for 2.28 seconds...
+2025-12-12 12:18:44,158 - INFO - Found 23 profiles.
+2025-12-12 12:18:44,158 - INFO - Processing Meet Vaghela - Status: Unknown
+2025-12-12 12:18:44,158 - INFO - Skipping Meet Vaghela (Status: Unknown)
+2025-12-12 12:18:44,180 - INFO - Sleeping for 28.79 seconds...
+2025-12-12 12:19:12,968 - INFO - Processing Mustkim Kureshi - Status: Unknown
+2025-12-12 12:19:12,969 - INFO - Skipping Mustkim Kureshi (Status: Unknown)
+2025-12-12 12:19:12,970 - INFO - Sleeping for 5.05 seconds...
+2025-12-12 12:19:18,024 - INFO - Processing Sudhir Rakkiappan - Status: Unknown
+2025-12-12 12:19:18,024 - INFO - Skipping Sudhir Rakkiappan (Status: Unknown)
+2025-12-12 12:19:18,025 - INFO - Sleeping for 25.37 seconds...
+2025-12-12 12:19:43,395 - INFO - Processing Mohd Suhaib Aamer - Status: Unknown
+2025-12-12 12:19:43,395 - INFO - Skipping Mohd Suhaib Aamer (Status: Unknown)
+2025-12-12 12:19:43,396 - INFO - Sleeping for 18.66 seconds...
+2025-12-12 12:20:02,055 - INFO - Processing vinayteja Lellela - Status: Unknown
+2025-12-12 12:20:02,055 - INFO - Skipping vinayteja Lellela (Status: Unknown)
+2025-12-12 12:20:02,057 - INFO - Sleeping for 29.98 seconds...
+2025-12-12 12:20:32,033 - INFO - Processing Kaushal Gurung - Status: Unknown
+2025-12-12 12:20:32,033 - INFO - Skipping Kaushal Gurung (Status: Unknown)
+2025-12-12 12:20:32,034 - INFO - Sleeping for 9.99 seconds...
+2025-12-12 12:20:42,027 - INFO - Processing MANOHAR POTHUMAHANTHI - Status: Unknown
+2025-12-12 12:20:42,027 - INFO - Skipping MANOHAR POTHUMAHANTHI (Status: Unknown)
+2025-12-12 12:20:42,028 - INFO - Sleeping for 27.46 seconds...
+2025-12-12 12:20:58,178 - INFO - Bot stopped by user.
+2025-12-12 12:20:58,181 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=48129): Failed to establish a new connection: [Errno 111] Connection refused")': /session/e8875197f87f89e3d94b75bee54c9bb4
+2025-12-12 12:20:58,182 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=48129): Failed to establish a new connection: [Errno 111] Connection refused")': /session/e8875197f87f89e3d94b75bee54c9bb4
+2025-12-12 12:20:58,183 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=48129): Failed to establish a new connection: [Errno 111] Connection refused")': /session/e8875197f87f89e3d94b75bee54c9bb4
+2025-12-12 12:22:41,460 - INFO - ====== WebDriver manager ======
+2025-12-12 12:22:43,078 - INFO - Get LATEST chromedriver version for chromium
+2025-12-12 12:22:45,006 - INFO - Get LATEST chromedriver version for chromium
+2025-12-12 12:22:45,169 - INFO - Driver [/home/mdpl/.wdm/drivers/chromedriver/linux64/142.0.7444.175/chromedriver-linux64/chromedriver] found in cache
+2025-12-12 12:22:46,500 - INFO - Navigating to LinkedIn login page...
+2025-12-12 12:22:48,265 - INFO - Sleeping for 4.36 seconds...
+2025-12-12 12:22:52,726 - INFO - Sleeping for 1.82 seconds...
+2025-12-12 12:22:54,598 - INFO - Sleeping for 1.26 seconds...
+2025-12-12 12:22:59,527 - INFO - Login successful.
+2025-12-12 12:22:59,528 - INFO - Sleeping for 11.26 seconds...
+2025-12-12 12:23:10,786 - INFO - Navigating to post: https://www.linkedin.com/feed/update/urn:li:activity:7404367839295496193/
+2025-12-12 12:23:13,860 - INFO - Sleeping for 22.58 seconds...
+2025-12-12 12:23:36,443 - INFO - Opening reactions modal...
+2025-12-12 12:23:41,610 - INFO - Found reaction button using: //button[contains(@class, 'social-details-social-counts__count-value')]
+2025-12-12 12:23:41,706 - INFO - Sleeping for 5.53 seconds...
+2025-12-12 12:23:47,251 - INFO - Sleeping for 3.67 seconds...
+2025-12-12 12:23:50,930 - INFO - Sleeping for 3.76 seconds...
+2025-12-12 12:23:55,068 - INFO - Sleeping for 2.15 seconds...
+2025-12-12 12:23:59,278 - INFO - Found 20 profiles.
+2025-12-12 12:23:59,278 - INFO - Processing Meet Vaghela - Status: Unknown
+2025-12-12 12:23:59,278 - INFO - Skipping Meet Vaghela (Status: Unknown)
+2025-12-12 12:23:59,283 - INFO - Sleeping for 23.23 seconds...
+2025-12-12 12:24:22,513 - INFO - Processing Mustkim Kureshi - Status: Unknown
+2025-12-12 12:24:22,513 - INFO - Skipping Mustkim Kureshi (Status: Unknown)
+2025-12-12 12:24:22,515 - INFO - Sleeping for 13.03 seconds...
+2025-12-12 12:24:35,545 - INFO - Processing Sudhir Rakkiappan - Status: Unknown
+2025-12-12 12:24:35,546 - INFO - Skipping Sudhir Rakkiappan (Status: Unknown)
+2025-12-12 12:24:35,547 - INFO - Sleeping for 8.99 seconds...
+2025-12-12 12:24:44,540 - INFO - Processing Mohd Suhaib Aamer - Status: Unknown
+2025-12-12 12:24:44,541 - INFO - Skipping Mohd Suhaib Aamer (Status: Unknown)
+2025-12-12 12:24:44,542 - INFO - Sleeping for 8.60 seconds...
+2025-12-12 12:24:53,146 - INFO - Processing vinayteja Lellela - Status: Unknown
+2025-12-12 12:24:53,146 - INFO - Skipping vinayteja Lellela (Status: Unknown)
+2025-12-12 12:24:53,147 - INFO - Sleeping for 14.42 seconds...
+2025-12-12 12:25:07,566 - INFO - Processing Kaushal Gurung - Status: Unknown
+2025-12-12 12:25:07,566 - INFO - Skipping Kaushal Gurung (Status: Unknown)
+2025-12-12 12:25:07,567 - INFO - Sleeping for 25.08 seconds...
+2025-12-12 12:25:32,645 - INFO - Processing MANOHAR POTHUMAHANTHI - Status: Unknown
+2025-12-12 12:25:32,645 - INFO - Skipping MANOHAR POTHUMAHANTHI (Status: Unknown)
+2025-12-12 12:25:32,646 - INFO - Sleeping for 7.82 seconds...
+2025-12-12 12:25:40,465 - INFO - Processing Khaoula Ghalimi - Status: Unknown
+2025-12-12 12:25:40,465 - INFO - Skipping Khaoula Ghalimi (Status: Unknown)
+2025-12-12 12:25:40,466 - INFO - Sleeping for 21.21 seconds...
+2025-12-12 12:26:01,674 - INFO - Processing Vasu Antala - Status: Unknown
+2025-12-12 12:26:01,674 - INFO - Skipping Vasu Antala (Status: Unknown)
+2025-12-12 12:26:01,675 - INFO - Sleeping for 29.27 seconds...
+2025-12-12 12:26:30,946 - INFO - Processing Rashwanth M. - Status: Unknown
+2025-12-12 12:26:30,946 - INFO - Skipping Rashwanth M. (Status: Unknown)
+2025-12-12 12:26:30,947 - INFO - Sleeping for 10.84 seconds...
+2025-12-12 12:26:41,791 - INFO - Processing Narasimha Reddy - Status: Unknown
+2025-12-12 12:26:41,791 - INFO - Skipping Narasimha Reddy (Status: Unknown)
+2025-12-12 12:26:41,793 - INFO - Sleeping for 9.51 seconds...
+2025-12-12 12:26:51,303 - INFO - Processing Merina Sharma P. - Status: Unknown
+2025-12-12 12:26:51,303 - INFO - Skipping Merina Sharma P. (Status: Unknown)
+2025-12-12 12:26:51,304 - INFO - Sleeping for 15.68 seconds...
+2025-12-12 12:27:06,985 - INFO - Processing Shashank Cheere - Status: Unknown
+2025-12-12 12:27:06,985 - INFO - Skipping Shashank Cheere (Status: Unknown)
+2025-12-12 12:27:06,986 - INFO - Sleeping for 26.22 seconds...
+2025-12-12 12:27:33,205 - INFO - Processing Ameer khan - Status: Unknown
+2025-12-12 12:27:33,206 - INFO - Skipping Ameer khan (Status: Unknown)
+2025-12-12 12:27:33,206 - INFO - Sleeping for 28.84 seconds...
+2025-12-12 12:28:02,048 - INFO - Processing KOUSIK RS - Status: Unknown
+2025-12-12 12:28:02,048 - INFO - Skipping KOUSIK RS (Status: Unknown)
+2025-12-12 12:28:02,049 - INFO - Sleeping for 28.22 seconds...
+2025-12-12 12:28:30,273 - INFO - Processing SRAJAN MISHRA - Status: Unknown
+2025-12-12 12:28:30,273 - INFO - Skipping SRAJAN MISHRA (Status: Unknown)
+2025-12-12 12:28:30,274 - INFO - Sleeping for 18.80 seconds...
+2025-12-12 12:28:49,073 - INFO - Processing PARTHIBAN UDYAKUMAR - Status: Unknown
+2025-12-12 12:28:49,073 - INFO - Skipping PARTHIBAN UDYAKUMAR (Status: Unknown)
+2025-12-12 12:28:49,074 - INFO - Sleeping for 26.72 seconds...
+2025-12-12 12:29:15,798 - INFO - Processing Jashwanth Mahalingam - Status: Unknown
+2025-12-12 12:29:15,798 - INFO - Skipping Jashwanth Mahalingam (Status: Unknown)
+2025-12-12 12:29:15,799 - INFO - Sleeping for 26.25 seconds...
+2025-12-12 12:29:42,054 - INFO - Processing Dharaneesh Boobalan - Status: Unknown
+2025-12-12 12:29:42,054 - INFO - Skipping Dharaneesh Boobalan (Status: Unknown)
+2025-12-12 12:29:42,055 - INFO - Sleeping for 5.11 seconds...
+2025-12-12 12:29:47,166 - INFO - Processing Gershon satvik - Status: Unknown
+2025-12-12 12:29:47,166 - INFO - Skipping Gershon satvik (Status: Unknown)
+2025-12-12 12:29:47,167 - INFO - Sleeping for 23.13 seconds...
